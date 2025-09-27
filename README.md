@@ -46,7 +46,7 @@ cd kirsh
 mkdir build && cd build
 cmake ..
 make -j$(nproc)
-
+´´´
 
 [![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/fern4ndomartins/kirsh/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
