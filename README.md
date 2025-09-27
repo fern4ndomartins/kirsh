@@ -46,3 +46,11 @@ cd kirsh
 mkdir build && cd build
 cmake ..
 make -j$(nproc)
+
+
+[![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/fern4ndomartins/kirsh/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![C++](https://img.shields.io/badge/C%2B%2B-20-blue.svg?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3.10+-yellow.svg?logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/platform-linux%20%7C%20bsd-lightgrey.svg?logo=linux&logoColor=white)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/fern4ndomartins/kirsh/issues)
