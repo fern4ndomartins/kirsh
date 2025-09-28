@@ -12,19 +12,19 @@ Kirsh implements a **custom protocol** over **TCP sockets**, enabling high-perfo
 
 ## ✨ Features
 
-- ⚡ **Modern C++ Core**  
+- **Modern C++ Core**  
   API designed with *templates*, *RAII*, and *move semantics* for maximum performance and memory safety.  
 
-- 🌐 **Custom Distributed Protocol**  
+- **Custom Distributed Protocol**  
   Synchronization of gradients, checkpoints, and control messages over TCP, designed to minimize latency and overhead.  
 
-- 📊 **Smart Dataset Partitioning**  
+- **Smart Dataset Partitioning**  
   Internal algorithms to balance dataset distribution dynamically, maximizing the use of each machine’s resources.  
 
-- 🐍 **Python Bindings**  
+- **Python Bindings**  
   Direct usage of Kirsh inside projects that leverage PyTorch, TensorFlow, or other ML frameworks.  
 
-- 🔧 **Local-First Scalability**  
+- **Local-First Scalability**  
   Targeted at academic clusters, research labs, and home setups with multiple machines.  
 
 ---
